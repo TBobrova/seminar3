@@ -120,6 +120,8 @@ git branch new name branch
 
 ### Удаление веток
 
+    
 Для того чтобы удалить ветку введи в терминал команду:
 
     git branch -d name_brage
+
