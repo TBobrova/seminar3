@@ -137,3 +137,4 @@
 
     git branch -d name_brage
 
+## Удаление репозитория
